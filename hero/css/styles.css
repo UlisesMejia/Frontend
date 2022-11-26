@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*Estilos generales */
+
+.image-container {
+    display: flex;
+}
+.image-container img {
+    width: 100%;
+}
+
+/*Estilos del header*/
+
+header {
+    background-color: #3f3f9e;
+    padding: 10px 50px;
+}
+ #logo {
+    width: 70px;
+ }
+
+ #logo img {
+    border-radius: 100%;
+    border: 4px solid;
+ }
